@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studing **Software engineer at UDC.**
 
-- 🌱 I’m currently learning **How to create interactive pages with React.**
+- 🌱 I’m currently learning **DevOps tools.**
 
 - 📫 How to reach me **angel.barreiros@udc.es**
 
