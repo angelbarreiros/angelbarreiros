@@ -2,8 +2,6 @@
 <h3 align="center">A software engineer from Galicia, Spain</h3>
 
 - 📫 How to reach me **oterobarreiros.business@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
