@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ángel Otero Barreiros</h1>
 <h3 align="center">A software engineer from Galicia, Spain</h3>
 
-- 🔭 I’m currently studing **Software engineer at UDC.**
-
-- 🌱 I’m currently learning **DevOps tools.**
-
-- 📫 How to reach me **angel.barreiros@udc.es**
+- 📫 How to reach me **oterobarreiros.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
